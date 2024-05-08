@@ -2,7 +2,7 @@
 
 # 🍕 devgetsu's Top 8 Page🍕
 
-## devgetsu has <!-- follower-counter -->30<!-- /follower-counter --> followers
+## devgetsu has <!-- follower-counter -->28<!-- /follower-counter --> friends
 
 [@Muhammad-Abdulloh](https://github.com/Muhammad-Abdulloh) | [@Sardor](https://github.com/SardorSohinazarov) | [@AcciGen](https://github.com/AcciGen) | [@Tohirjon](https://github.com/Tohirjon-Odilov)
 --- | --- | --- | ---
