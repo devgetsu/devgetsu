@@ -4,6 +4,10 @@
 
 ## devgetsu has <!-- follower-counter -->30<!-- /follower-counter --> followers
 
-[@Muhammad-Abdulloh](https://github.com/Muhammad-Abdulloh) | [@Sardor](https://github.com/SardorSohinazarov) | [@AcciGen](https://github.com/AcciGen) | [@Zilola](https://github.com/Zilola-Nazarova)
+[@Muhammad-Abdulloh](https://github.com/Muhammad-Abdulloh) | [@Sardor](https://github.com/SardorSohinazarov) | [@AcciGen](https://github.com/AcciGen) | [@Tohirjon](https://github.com/Tohirjon-Odilov)
 --- | --- | --- | ---
-![@Muhammad-Abdulloh](https://avatars.githubusercontent.com/u/92303840?v=4) | ![@Sardor](https://avatars.githubusercontent.com/u/107931170?v=4) | ![@AcciGen](https://avatars.githubusercontent.com/u/145344775?v=4) | ![@Zilola](https://avatars.githubusercontent.com/u/61951420?v=4)
+![@Muhammad-Abdulloh](https://avatars.githubusercontent.com/u/92303840?v=4) | ![@Sardor](https://avatars.githubusercontent.com/u/107931170?v=4) | ![@AcciGen](https://avatars.githubusercontent.com/u/145344775?v=4) | ![@Tohirjon](https://avatars.githubusercontent.com/u/82634626?v=4)
+
+[@Muhammad-Abdulloh](https://github.com/Muhammad-Abdulloh) | [@Sardor](https://github.com/SardorSohinazarov) | [@AcciGen](https://github.com/AcciGen) | [@Tohirjon](https://github.com/Tohirjon-Odilov)
+--- | --- | --- | ---
+![@Muhammad-Abdulloh](https://avatars.githubusercontent.com/u/92303840?v=4) | ![@Sardor](https://avatars.githubusercontent.com/u/107931170?v=4) | ![@AcciGen](https://avatars.githubusercontent.com/u/145344775?v=4) | ![@Tohirjon](https://avatars.githubusercontent.com/u/82634626?v=4)
