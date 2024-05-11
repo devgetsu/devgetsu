@@ -1,6 +1,6 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-# 🍕 devgetsu's Top 8 Page🍕
+#  ⭐ devgetsu's Top 8 Page⭐
 
 ## devgetsu has <!-- follower-counter -->28<!-- /follower-counter --> followers
 
