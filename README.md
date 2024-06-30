@@ -1,14 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
 ```cs
 public class Devgetsu
 {
